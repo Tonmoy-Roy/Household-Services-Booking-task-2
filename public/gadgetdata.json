@@ -1,0 +1,110 @@
+[
+  {
+    "service_id": "S001",
+    "service_name": "Standard AC Tune-Up",
+    "category": "AC Service",
+    "description": "Comprehensive air conditioning maintenance including filter cleaning, refrigerant check, and system diagnostics.",
+    "price": "120.00$",
+    "duration": "1-2 hours",
+    "availability": "Mon-Sat, 8AM-6PM",
+    "location_coverage": "Nationwide",
+    "rating": 4.7,
+    "image_url": "https://siriuspac.com/wp-content/uploads/2021/06/Spring-Guide-to-an-AC-Tune-Up.jpg"
+  },
+  {
+    "service_id": "S002",
+    "service_name": "Electrical Outlet Installation",
+    "category": "Electrician",
+    "description": "Installation of a single electrical outlet with safety checks and wiring adjustments.",
+    "price": "150.00$",
+    "duration": "1-1.5 hours",
+    "availability": "Mon-Fri, 7AM-5PM",
+    "location_coverage": "Urban areas",
+    "rating": 4.6,
+    "image_url": "https://mobileimages.lowes.com/marketingimages/e6850856-ef9a-48a0-b65d-83566fa2876c/Howhero.png"
+  },
+  {
+    "service_id": "S003",
+    "service_name": "Deep House Cleaning",
+    "category": "House Cleaning",
+    "description": "Thorough cleaning of all rooms, including bathrooms, kitchen, and living areas, using eco-friendly products.",
+    "price": "200.00$",
+    "duration": "3-4 hours",
+    "availability": "Daily, 9AM-7PM",
+    "location_coverage": "Nationwide",
+    "rating": 4.9,
+    "image_url": "https://www.hourmaid.com/wp-content/uploads/2019/01/deep-clean.jpeg"
+  },
+  {
+    "service_id": "S004",
+    "service_name": "Drain Unclogging",
+    "category": "Plumbing",
+    "description": "Professional drain cleaning for sinks, showers, or toilets to resolve clogs and restore flow.",
+    "price": "100.00$",
+    "duration": "45-60 minutes",
+    "availability": "24/7",
+    "location_coverage": "Nationwide",
+    "rating": 4.8,
+    "image_url": "https://www.horizonservices.com/wp-content/uploads/2019/09/Clogged-Drains-Fix-Solutions-Equipment-Photo.jpg"
+  },
+  {
+    "service_id": "S005",
+    "service_name": "Lawn Mowing & Edging",
+    "category": "Landscaping",
+    "description": "Complete lawn mowing and edging for a well-maintained yard, up to 5,000 sq ft.",
+    "price": "80.00$",
+    "duration": "1-2 hours",
+    "availability": "Mon-Sat, 8AM-4PM",
+    "location_coverage": "Suburban areas",
+    "rating": 4.5,
+    "image_url": "https://lawnedging.com.au/wp-content/uploads/2023/10/lawn-maintenance-professional-at-work-2023-09-16-05-12-43-utc-scaled.jpg"
+  },
+  {
+    "service_id": "S006",
+    "service_name": "Interior Room Painting",
+    "category": "Painting",
+    "description": "Painting of a single room (up to 12x12 ft) with premium, low-VOC paint, including prep and cleanup.",
+    "price": "300.00$",
+    "duration": "4-6 hours",
+    "availability": "Mon-Sat, 8AM-6PM",
+    "location_coverage": "Nationwide",
+    "rating": 4.8,
+    "image_url": "https://aapkapainter.com/blog/wp-content/uploads/2018/11/istockphoto-1198703852-170667a.jpg"
+  },
+  {
+    "service_id": "S007",
+    "service_name": "Pest Control Treatment",
+    "category": "Pest Control",
+    "description": "Targeted treatment for common household pests like ants, roaches, and spiders, with follow-up inspection.",
+    "price": "90.00$",
+    "duration": "1-1.5 hours",
+    "availability": "Mon-Fri, 9AM-5PM",
+    "location_coverage": "Nationwide",
+    "rating": 4.4,
+    "image_url": "https://techsquadteam.com/assets/profile/blogimages/2d6d0e31d02d7fc9cd2fb2310f49153c.jpg"
+  },
+  {
+    "service_id": "S008",
+    "service_name": "Smart Thermostat Installation",
+    "category": "Home Automation",
+    "description": "Installation and setup of a smart thermostat for energy-efficient home climate control.",
+    "price": "200.00$",
+    "duration": "1-2 hours",
+    "availability": "Mon-Fri, 9AM-6PM",
+    "location_coverage": "Urban areas",
+    "rating": 4.9,
+    "image_url": "https://www.thespruce.com/thmb/2Ijt42Zh9YrtFRvS4r69mpmF4HY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SPR-smart-thermostat-installation-7109495-step-07_30517-cfc562f042c44bb2979596b80c8ff590.jpg"
+  },
+  {
+    "service_id": "S009",
+    "service_name": "Junk Removal",
+    "category": "Junk Removal",
+    "description": "Removal of up to 1/4 truckload of household junk, including furniture and appliances, with eco-friendly disposal.",
+    "price": "150.00$",
+    "duration": "1-2 hours",
+    "availability": "Daily, 7AM-8PM",
+    "location_coverage": "Nationwide",
+    "rating": 4.6,
+    "image_url": "https://affordablejunklv.com/wp-content/themes/theme/images/image-01.jpg"
+  }
+]

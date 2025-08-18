@@ -4,10 +4,10 @@ import { NavLink } from 'react-router-dom';
 const Navbar = () => {
     const links = <>
         <li><NavLink>Home</NavLink></li>
-        <li><NavLink>Services</NavLink></li>
-        <li><NavLink>Booking</NavLink></li>
-        <li><NavLink>Dashboard</NavLink></li>
-        <li><NavLink>Register</NavLink></li>
+        <li><NavLink to="/service">Services</NavLink></li>
+        <li><NavLink to="/booking">Booking</NavLink></li>
+        <li><NavLink to="/dashboard">Dashboard</NavLink></li>
+        <li><NavLink to="/register">Register</NavLink></li>
     </>
     return (
         <div className="navbar bg-base-100 shadow-sm">
@@ -30,7 +30,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Button</a>
+                <a className="btn btn-primary">Login</a>
             </div>
         </div>
     );

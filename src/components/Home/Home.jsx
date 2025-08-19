@@ -1,5 +1,8 @@
 import bannerimg from "../../assets/banner.jpg"
-import Gadgets from "../Gadgets/Gadgets";
+import Gadgets from "../Reusable/DummyData";
+import DummyData from "../Reusable/DummyData";
+import FormInput from "../Reusable/FormInput ";
+import ServiceCard from "../Reusable/ServiceCard";
 const Home = () => {
     return (
         <div>
@@ -18,13 +21,10 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            <div className='mx-auto flex md:justify-center md:items-center'>
+            <div className='mx-auto flex md:justify-center md:items-center mb-[15vh]'>
                 <img className='md:h-[60vh] md:w-[50vw] rounded-2xl' src={bannerimg} />
             </div>
             <Gadgets></Gadgets>
-            {/* <div className="min-h-screen">
-
-            </div> */}
         </div>
     );
 };

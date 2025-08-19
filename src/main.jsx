@@ -15,7 +15,7 @@ import Services from './components/Navbar/Services.jsx';
 import Booking from './components/Navbar/Booking.jsx';
 import Dashboard from './components/Navbar/Dashboard.jsx';
 import Register from './components/Register/Register.jsx';
-import Gadgets from './components/Gadgets/Gadgets.jsx';
+import Gadgets from './components/Reusable/DummyData.jsx';
 
 const router = createBrowserRouter([
   {

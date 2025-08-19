@@ -12,7 +12,7 @@ const Footer = () => {
                         <a href=""><img src={img2} alt="" /></a>
                         <a href=""><img src={img3} alt="" /></a>
                     </div>
-                    <p class="text-sm">© 2025 XyneroTech. All rights reserved.</p>
+                    <p class="text-sm">Copyright © 2025 - All right reserved by Roy</p>
                 </div>
             </footer>
         </div>

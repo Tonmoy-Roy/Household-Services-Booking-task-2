@@ -1,4 +1,5 @@
 import React from 'react';
+import Button from '../Reusable/Button';
 
 const Register = () => {
     return (

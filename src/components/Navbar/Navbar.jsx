@@ -22,7 +22,7 @@ const Navbar = () => {
                         {links}
                     </ul>
                 </div>
-                <p className="text-xl font-bold">WebCraft</p>
+                <p className="text-xl font-bold text-primary">WebCraft</p>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">

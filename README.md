@@ -8,7 +8,7 @@ https://imaginative-khapse-b7d0bd.netlify.app/
 1. npm install
 2. npm run dev
 
-🛠️ Tech Stack Used
+# Tech Stack Used
 1. ReactJS (Vite)
 2. Tailwind CSS
 

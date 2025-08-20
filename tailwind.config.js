@@ -1,8 +1,11 @@
-// tailwind.config.js
 export default {
   content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        libertinus: ['Libertinus Sans', 'sans-serif'],
+      },
+    },
   },
   plugins: [require("daisyui")],
 }

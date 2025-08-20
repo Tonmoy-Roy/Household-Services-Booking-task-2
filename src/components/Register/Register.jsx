@@ -1,10 +1,9 @@
-import React from 'react';
-import Button from '../Reusable/Button';
+
 
 const Register = () => {
     return (
         <div>
-            <p className='text-2xl'>this is registration page</p>
+            <p className='h-screen flex items-center justify-center text-3xl'>This is Registration page</p>
         </div>
     );
 };

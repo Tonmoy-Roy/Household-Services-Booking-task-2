@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import GadgetCard from '../GadgetCard/GadgetCard';
 
 const DummyData = () => {
@@ -9,9 +9,9 @@ const DummyData = () => {
             .then(data => setGadgets(data))
     }, [])
     return (
-        <div>
-            <p className='text-center text-3xl p-10 font-bold '>What We Offer</p>
-            <div className='grid md:grid-cols-3'>
+        <div className='mb-[10vh]'>
+            <p className='text-center text-4xl font-bold mb-10 font-libertinus'>Explore Our Services</p>
+            <div className='grid md:grid-cols-3 gap-10'>
                 {
                     Gadget.map(gadget=><GadgetCard gadget={gadget}></GadgetCard>)
                 }

@@ -1,10 +1,8 @@
-import React from 'react';
 import Gadgets from '../Reusable/DummyData';
-import FormInput from '../Reusable/FormInput ';
 
 const Services = () => {
     return (
-        <div>
+        <div className='mt-[10vh]'>
             <Gadgets/>
         </div>
     );

@@ -1,9 +1,8 @@
-import React from 'react';
 
 const Booking = () => {
     return (
         <div>
-            <p className='text-2xl font-bold'>this is booking page</p>
+            <p className='h-screen flex items-center justify-center text-3xl'>This is Booking page</p>
         </div>
     );
 };

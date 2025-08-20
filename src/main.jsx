@@ -15,7 +15,7 @@ import Services from './components/Navbar/Services.jsx';
 import Booking from './components/Navbar/Booking.jsx';
 import Dashboard from './components/Navbar/Dashboard.jsx';
 import Register from './components/Register/Register.jsx';
-import Gadgets from './components/Reusable/DummyData.jsx';
+import Login from './components/Register/Login.jsx';
 
 const router = createBrowserRouter([
   {
@@ -42,6 +42,10 @@ const router = createBrowserRouter([
       {
         path: "/register",
         element: <Register></Register>,
+      },
+      {
+        path: "/login",
+        element: <Login></Login>,
       },
     ]
   },

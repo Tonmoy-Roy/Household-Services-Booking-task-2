@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-
+import logo from '../../assets/logo2.png'
 const Navbar = () => {
     const links = <>
         <a className=' hover:text-blue-600 mr-5'><NavLink
@@ -38,7 +38,7 @@ const Navbar = () => {
         <div className="bg-white sticky top-0 z-50">
             <div className="mx-auto shadow-sm px-4 py-4 flex justify-between items-center -mt-[1px]">
                 <div>
-                    <p className="text-2xl font-bold text-blue-600 font-libertinus">WebCraft</p>
+                    <img className='md:h-[5vh] md:w-[18vw]' src={logo} alt="" />
                 </div>
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

@@ -7,8 +7,8 @@ const Home = () => {
             <div className="hero rounded-2xl md:h-[60vh] items-start">
                 <div className="hero-content">
                     <div className="w-full pt-10">
-                        <h1 className="text-5xl font-bold md:w-[900px] mx-auto text-center font-libertinus">
-                            Transform Your Home with Expert Care and Trusted Professional <br /> Services
+                        <h1 className="text-5xl font-bold md:w-[900px] mx-auto text-center">
+                            Transform Your Home with <span className="text-yellow-800">Expert</span> Care and <span className="text-yellow-800">Trusted</span> Professional <br /> Services
                         </h1>
                         <div className='w-full'>
                             <p className="py-6 md:w-[700px] mx-auto text-center text-lg">
